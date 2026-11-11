@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Javier Andrade
  
-### Estudiante de Ciencia de Datos | Machine Learning · Data Engineering & Analytics
+### Estudiante de Ciencia de Datos | Machine Learning · Data Analytics
  
 ![USM](https://img.shields.io/badge/USM-Ciencia%20de%20Datos-1f6feb?style=flat-square)
 ![Práctica](https://img.shields.io/badge/Pr%C3%A1ctica-disponibilidad%20inmediata-2ea44f?style=flat-square)
